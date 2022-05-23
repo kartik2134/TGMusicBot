@@ -21,9 +21,8 @@
 
 
 
-### Owner Of This Repository
+## Owner Of This Repository
 
-[Aditya Halder](https://t.me/AdityaHalder) 
+### [Aditya Halder](https://t.me/AdityaHalder) 
 
-
-[HERO](https://t.me/Shailendra34) 
+### [HERO](https://t.me/Shailendra34) 
