@@ -30,7 +30,7 @@ async def start_private(client: Client, message: Message):
                 ],
                 [
                     InlineKeyboardButton("⭐ 𝐎𝐰𝐧𝐞𝐫'𝐱𝐃 ✨", url=f"https://t.me/{OWNER_USERNAME}"),
-                    InlineKeyboardButton("💐 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫'𝐱𝐃 💥", url=f"https://t.me/Shailendra34"),
+                    InlineKeyboardButton("💐 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫'𝐱𝐃 💥", url=f"https://t.me/wtf_kartik"),
                 ],
                 [
                     InlineKeyboardButton(
